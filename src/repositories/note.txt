@@ -1,0 +1,2 @@
+Contains logic for interacting with the database (e.g., queries).
+Naming convention: Use singular and descriptive names (e.g., user.repository.js).

@@ -1,0 +1,2 @@
+Contains schema definitions for database models.
+Naming convention: Use PascalCase for model files (e.g., User.model.js).
